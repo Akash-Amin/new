@@ -1,0 +1,370 @@
+*
+{
+    list-style: none;
+
+}
+.main-main
+{
+    background-color: rgb(43, 39, 39);
+}
+.Home-nav-main
+{
+    display:flex
+}
+.Home-nav-link
+{
+    display: flex;
+    text-decoration: none;
+    margin-left: 59vw;
+}
+
+
+@media (max-width:1725px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 55vw;
+}
+}
+
+@media (max-width:1625px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 45vw;
+}
+}
+@media (max-width:1285px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 30vw;
+}
+}
+
+@media (max-width:1085px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 22vw;
+
+}
+
+.Home-nav-main
+{
+    display: block;
+}
+.Home-nav-main-three
+{
+    margin-left: 30%;
+}
+.Home-nav-link
+{
+    margin-left: 20vw;
+    margin-top: 5vw;
+}
+}
+
+@media (max-width:885px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 10vw;
+    margin-top: 7vw;
+}
+}
+
+@media (max-width:685px)
+{
+    
+.Home-nav-link
+{
+    margin-left: 10vw;
+    margin-top: 9vw;
+}
+}
+
+@media (max-width:585px)
+{
+    
+.Home-nav-link
+{
+    margin-left: -1vw;
+    margin-top: 9vw;
+}
+}
+.Home-nav-main-three
+{
+    display: flex;
+}
+
+.nav-link-class-name1
+{
+    text-decoration: none;
+    padding: 12px;
+    font-size: 25px;
+    margin: 15px;
+    font-weight: 600;
+   /* border: 1px solid rgba(255, 196, 0, 0.514);*/
+    border-radius: 22px;
+    color: rgb(250, 192, 3);
+}
+.nav-logo-detail
+{
+   padding: 10px;
+   margin-left: 5px;
+   
+   
+}
+.nav-logo-img
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+}
+.Home-nav
+{
+    padding: 20px;
+}
+.profile-bud
+{
+    font-size: 20px;
+    font-weight: 900;
+    cursor: pointer;
+    
+    color: rgb(250, 249, 246);
+}
+.Home-detail-one
+{
+    color: rgb(253, 253, 253);
+    font-size: 50px;
+}
+.Home-detail-two
+{
+    color: rgb(165, 143, 143);
+    font-size: 30px;
+    font-weight: 500;
+}
+.agency
+{
+    font-size: 15px;
+    font-weight: 800;
+    
+    color: rgb(250, 184, 3);
+    cursor: pointer;
+}
+.list-icon-class-name
+{
+    padding: 20px;
+    font-size: 45px;
+    font-weight: 600;
+    
+    margin-top: -18px;
+    margin-left: 10px;
+
+    color: rgb(250, 184, 3);
+    cursor: pointer;
+    height: 60px;
+    font-size: 35px !important;
+    border-radius: 50%;
+background: linear-gradient(145deg, #111111, #645d5d);
+box-shadow:  15px 15px 30px #131212,
+             -15px -15px 30px #a19a9a;
+}
+.Home-detail
+{
+    text-align: center;
+    margin: 20px;
+    
+    padding: 20px;
+}
+.Home-detail-button
+{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 600;
+   color: rgb(253, 195, 5);
+    
+    border-radius: 13px;
+background: linear-gradient(145deg, #111111, #645d5d);
+box-shadow:  15px 15px 30px #131212,
+             -5px -5px 30px #a19a9a;
+    
+}
+.Home-box-icon
+{/*
+    font-size: 90px;
+    font-weight: 900;
+    margin-top: -20px;*/
+    color: rgb(252, 4, 4);
+    font-size: 90px;
+    background-color: burlywood;
+    padding: 0px;
+    border: 4px solid black;   
+}
+.Home-box-main
+{
+    background-color: rgb(78, 80, 76);
+    border-radius: 15px;
+    text-align: center;
+    margin: 60px;
+    width: 400px;
+
+    
+background: linear-gradient(145deg, #111111, #272525);
+box-shadow:  15px 15px 31px #131212,
+             -1px -1px 31px #a19a9a;
+}
+.Home-box-main-sub1
+{
+    display: flex;
+}
+
+.Home-box-main-sub2
+{
+    display: block;
+    background-color: blueviolet;
+}
+.Home-box-icon1
+{
+    color: rgb(163, 119, 119);margin-right: 20px;
+    padding: 10px;
+    margin: 0%;
+    font-size: 90px;
+    padding-top: -900px;
+    margin-top: -70px;
+
+
+}
+.noa
+{
+    color: rgb(253, 247, 247);
+}
+.dollar
+{
+    color: rgb(230, 221, 221);
+    font-size: 90px;
+}
+.main-two
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Home-main-3
+{
+    display: flex;
+    width: 100vw;
+}
+.Home-main-3-first
+{
+    background-color: rgb(58, 54, 54);
+    text-align: center;
+    padding: 40px;
+    margin: 50px;
+    margin-left: 25%;
+    border-radius: 30px;
+}
+/*
+
+.Home-main-3-second
+{
+    background-color: rgb(150, 121, 101);
+}
+*/
+.Home-main-3-second
+{
+    padding: 40px;
+    border-radius: 20px;
+}
+.Home-main-3-button
+{
+    padding: 14px;
+    font-weight: 600;
+    width: 100%;
+    color: rgb(252, 195, 8);
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid rgb(3, 3, 3);
+background: #080808;
+box-shadow: inset -6px -6px 17px #726f6f,
+            inset 6px 6px 17px #3b3939;
+}
+.Home-box-heading
+{
+    color: rgb(190, 187, 187);
+}
+.Home-box-data
+{
+    color: rgb(160, 153, 153);
+}
+#one
+{
+    color: rgb(255, 4, 4);
+}
+#two
+{
+    color: rgb(54, 255, 4);
+}
+#three
+{
+    color: rgb(5, 71, 253);
+}
+#four
+{
+    color: rgb(6, 162, 253);
+}
+#five
+{
+    color: rgb(253, 4, 212);
+}
+.yellow
+{
+    color: rgb(250, 164, 6);
+}
+.dark-gray
+{
+    color: rgb(92, 86, 86);
+}
+.gray
+{
+    color: rgb(168, 154, 154);
+}
+
+.Home-main-3
+{
+    width: 90vw;
+}
+
+@media (max-width:1005px)
+{
+    .last-div
+    {
+        display: block;
+    }
+    .Home-main-3-first
+    {
+        margin-left: 3%;
+    }
+  
+.Home-main-3
+{
+    display: block;
+    
+    text-align: center;
+    margin-left: 8%;
+}
+}/*
+.Home-main-3-second
+{
+    text-align: center;
+    margin-left: 8%;
+    background-color: black;
+}*/
